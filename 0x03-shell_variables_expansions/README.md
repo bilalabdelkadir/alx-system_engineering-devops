@@ -1,0 +1,1 @@
+the first task is to create an alias command with name of ls that run rm *
